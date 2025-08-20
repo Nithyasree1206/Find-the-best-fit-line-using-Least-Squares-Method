@@ -24,7 +24,7 @@ Developed by: NITHYASREE S
 RegisterNumber:  212224040225
 */
 
-````
+
 import numpy as np
 import matplotlib.pyplot as plt
 X=np.array(eval(input()))
@@ -44,6 +44,8 @@ plt.scatter(X,Y)
 plt.plot(X,Y_pred,color="red")
 plt.show()
 ```
+
+
 
 ## Output:
 <img width="587" height="368" alt="image" src="https://github.com/user-attachments/assets/3ba249c0-d19e-41fb-8c8c-b1d0de8b786a" />
