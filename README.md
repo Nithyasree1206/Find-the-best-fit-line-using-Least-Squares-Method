@@ -20,13 +20,14 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ```
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: 
-RegisterNumber:  
+Developed by: NITHYASREE S
+RegisterNumber:  212224040225
 */
 ```
 
 ## Output:
-![best fit line](sam.png)
+<img width="587" height="368" alt="image" src="https://github.com/user-attachments/assets/3ba249c0-d19e-41fb-8c8c-b1d0de8b786a" />
+
 
 
 ## Result:
